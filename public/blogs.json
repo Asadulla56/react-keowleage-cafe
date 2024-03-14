@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/vcsf4M2/32662558-7964736.jpg",
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "author_name": "Jane Doe",
+    "author_img": "https://i.ibb.co/XD4TTwT/8951992c738f63c4175325c46b2ab40d.webp",
+    "posted_time": "10:45 AM",
+    "posted_date": "March 14, 2024",
+    "heading": "Unveiling the Mysteries of Nature's Hidden Sanctuary",
+    "reading_time": 180
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/82PkpRr/7964710.jpg",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "author_name": "John Smith",
+    "author_img": "https://i.ibb.co/c2tZVMN/download.jpg",
+    "posted_time": "3:20 PM",
+    "posted_date": "March 14, 2024",
+    "heading": "Exploring the Roaring Twenties through Fitzgerald's Masterpiece",
+    "reading_time": 240
+    
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/j8tWJC2/7964649.jpg",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "author_name": "Emily Johnson",
+    "author_img": "https://example.com/auther3.jpg",
+    "posted_time": "12:15 PM",
+    "posted_date": "March 14, 2024",
+    "heading": "Unraveling the Tapestry of Prejudice in Southern Society",
+    "reading_time": 210
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/j8tWJC2/7964649.jpg",
+    "author": "Jane Austen",
+    "author_name": "Michael Brown",
+    "author_img": "https://example.com/auther4.jpg",
+    "posted_time": "6:30 AM",
+    "posted_date": "March 14, 2024",
+    "heading": "Navigating the Complexities of Love and Social Status in Austen's Classic",
+    "reading_time": 300
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/vcsf4M2/32662558-7964736.jpg",
+    "title": "1984",
+    "author": "George Orwell",
+    "author_name": "Sarah Williams",
+    "author_img": "https://example.com/auther5.jpg",
+    "posted_time": "8:00 PM",
+    "posted_date": "March 14, 2024",
+    "heading": "Orwell's Vision of Totalitarianism and the Perils of Surveillance State",
+    "reading_time": 270
+  }
+]
