@@ -1,4 +1,4 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import './App.css'
 import Header from './compontents/Header/Header'
 import Blogs from './compontents/Blogs/Blogs'
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <div className='md:flex'>
+      <div className='md:flex max-w-6xl mx-auto'>
       <Blogs></Blogs>
       <Booksmarks></Booksmarks>
       </div>
